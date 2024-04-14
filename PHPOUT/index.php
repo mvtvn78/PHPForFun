@@ -1,5 +1,12 @@
-<?php 
-echo "Hello World";
-echo "Welcome to mvtvn78";
-echo "Chào các bạn đã đến với mvtvn78";
-?>
+<html>
+
+<head> 
+	<title>Mvtvn78</title>
+</head>
+<body> 
+	<?php    
+
+		echo "<p> Hello World </p>"
+	?>
+</body>
+</html>
